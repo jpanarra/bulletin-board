@@ -1,5 +1,8 @@
 # Bulletin-Board
-## Small Project While Working Alongside A Lynda Tutorial
+
+A React.js application that allows you to write notes and move the notes around on the web-browser. 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
